@@ -1,4 +1,5 @@
 //c program in git and github
+//practicing branches
 #include<stdio.h>
 
 int sumofdigits(int num);
