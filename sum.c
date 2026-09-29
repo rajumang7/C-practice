@@ -1,3 +1,4 @@
+//c program in git and github
 #include<stdio.h>
 
 int sumofdigits(int num);
