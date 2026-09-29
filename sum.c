@@ -1,5 +1,4 @@
-//c program in git and github
-//practicing branches
+// C program for practicing Git and GitHub
 #include<stdio.h>
 
 int sumofdigits(int num);
